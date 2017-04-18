@@ -1,3 +1,3 @@
 # hello-world
-dummy rep
+dummy programmer
 blabla
